@@ -1,0 +1,3 @@
+/home/os2018/ex3/students
+/home/os2018/ex3/input.txt
+/home/os2018/ex3/correctOutput.txt
